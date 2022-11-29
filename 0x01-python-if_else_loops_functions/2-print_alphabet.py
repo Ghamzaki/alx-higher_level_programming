@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for alpha in range(97, 123):
-    print(chr(alpha), end=" ")
+for low in range(97, 123):
+    print("{}".format(chr(low)), end="")
