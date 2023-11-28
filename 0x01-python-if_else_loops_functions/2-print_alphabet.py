@@ -1,3 +1,4 @@
 #!/usr/bin/python3
-for i in range(a, z)
-print(i)
+import string
+for alpha in range(97, 123):
+    print("{}".format(chr(alpha)), end =" ")
